@@ -1,0 +1,14 @@
+{
+    "name": "Product",
+    "references": [
+        "GUID:e88d9b4fcc6169f48bbd72b39979d8a6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
